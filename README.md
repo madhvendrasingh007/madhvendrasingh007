@@ -15,7 +15,7 @@
 
 - 📫 Have a look on my ***[Resume](https://drive.google.com/drive/u/1/my-drive)***
 
-- ⚡ Interest ***: I am a Photographer and Sketch artist***
+- ⚡ Hobbies ***: Photography and Sketching ***
 
 <br>
 
