@@ -15,7 +15,7 @@
 
 - 📫 Have a look on my ***[Resume](https://drive.google.com/drive/u/1/my-drive)***
 
-- ⚡ Hobbies ***: Photography and Sketching ***
+- ⚡ Hobbies ***: Photography and Sketching***
 
 <br>
 
