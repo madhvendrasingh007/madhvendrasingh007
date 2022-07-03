@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhvendra Singh</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Madhvendra Singh</h1>
 <h3 align="center">I am a Computer Science student at JECRC College(Jaipur) and I'm very passionate and dedicated to my work. I am always keen to explore new technologies.</h3>
 
 <br>
