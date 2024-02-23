@@ -30,7 +30,7 @@
 
 <!-- 📫 Have a look on my ***[Resume](https://drive.google.com/drive/u/1/my-drive)***     -->
 
-🌐 Have a look on my ***[Artwork Portfolio](https://myartworks-007.netlify.app/)
+🌐 Have a look on my ***[Artwork Portfolio](https://myartworks-007.netlify.app/)***
 
 ⚡ Hobbies ***: Photography and Sketching***
   
