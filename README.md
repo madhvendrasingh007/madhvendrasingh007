@@ -1,12 +1,22 @@
+<div align="right">
+<a href="https://github.com/madhvendrasingh007/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007">
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/madhvendrasingh007?tab=followers"><img src="https://img.shields.io/github/followers/madhvendrasingh007?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=madhvendrasingh007.madhvendrasingh007" />
+<img align="right" src="https://img.shields.io/github/followers/madhvendrasingh007?label=Followers&style=social" alt="GitHub Badge" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Madhvendra+Singh!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
-
-<br/>
 
 <h3 align="center">I am a Computer Science student at JECRC College(Jaipur) and I'm very passionate and dedicated to my work. I am always keen to explore new technologies.</h3>
 
@@ -90,7 +100,7 @@
 
 
 ## ❤ Views and Followers
-<div align="center">
+<div align="right">
 <a href="https://github.com/madhvendrasingh007/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007">
 </a>
@@ -98,10 +108,11 @@
 <br/>
 <br/>
 
-
 <a href="https://github.com/madhvendrasingh007?tab=followers"><img src="https://img.shields.io/github/followers/madhvendrasingh007?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
+
+<!--  Ending Line  -->
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Great+day+ahead!;" />
 </h3>
