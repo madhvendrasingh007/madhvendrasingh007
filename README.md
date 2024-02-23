@@ -2,10 +2,6 @@
 <a href="https://github.com/madhvendrasingh007/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007">
 </a>
-
-<br/>
-<br/>
-
 <a href="https://github.com/madhvendrasingh007?tab=followers"><img src="https://img.shields.io/github/followers/madhvendrasingh007?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
