@@ -14,7 +14,7 @@
 
 <h3 align="center">A passionate software developer from India </h3>
 
-<h5 align="center">Passionate about turning ideas into reality through code and creativity. I thrive on challenges and enjoy delving into the intricate details of problem-solving. I bring a unique perspective to every project I work on.</h5>
+<h4 align="center">Passionate about turning ideas into reality through code and creativity. I thrive on challenges and enjoy delving into the intricate details of problem-solving. I bring a unique perspective to every project I work on.</h4>
 
 <hr/>
 
@@ -89,12 +89,9 @@
   <br/><br/><br/>
 </div>
 
-<br/>
 <hr/>
 
 <!--  Ending Line  -->
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Great+day+ahead!;" />
 </h3>
-
-<br/>
