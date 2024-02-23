@@ -1,3 +1,4 @@
+<!--  Profile views & Followers  -->
 <div align="right">
 <a href="https://github.com/madhvendrasingh007/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007">
@@ -5,37 +6,32 @@
 <a href="https://github.com/madhvendrasingh007?tab=followers"><img src="https://img.shields.io/github/followers/madhvendrasingh007?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=madhvendrasingh007.madhvendrasingh007" />
-<img align="right" src="https://img.shields.io/github/followers/madhvendrasingh007?label=Followers&style=social" alt="GitHub Badge" />
+<br/>
 
+<!--  Introduction Line  -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Madhvendra+Singh!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
 
-<h3 align="center">I am a Computer Science student at JECRC College(Jaipur) and I'm very passionate and dedicated to my work. I am always keen to explore new technologies.</h3>
+<h5 align="center">Passionate about turning ideas into reality through code and creativity. I thrive on challenges and enjoy delving into the intricate details of problem-solving. I bring a unique perspective to every project I work on.</h5>
 
 <hr/>
 
+<!--  About Section  -->
 <div align="center">
-<h2>⚒🙋‍♂️ ABOUT ME ⚒🙋‍♂️</h2>
- 
-🔭 I’m currently working on **a marketplace**
- 
-🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/madhvendrasingh007/madhvendrasingh007/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
-👨🏻‍💻 I’m currently learning Full-Stack Web Development in **React.js** & **Node.js**
+<h2>🙋‍♂️ ABOUT ME 🙋‍♂️</h2>
 
 🌱 Working hard in  ***Data Structures and Algorithms.***
 
+👨🏻‍💻 I’m currently learning Full-Stack Web Development in **React.js** & **Node.js**
+
 💬 Ask me about anything! I am happy to help.
 
-📫 Have a look on my ***[Resume](https://drive.google.com/drive/u/1/my-drive)***
+<!-- 📫 Have a look on my ***[Resume](https://drive.google.com/drive/u/1/my-drive)***     -->
+
+🌐 Have a look on my ***[Artwork Portfolio](https://myartworks-007.netlify.app/)
 
 ⚡ Hobbies ***: Photography and Sketching***
   
@@ -56,16 +52,19 @@
 <br/>
 <hr/>
 
+
+<!--  Language Section  -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
 
+<!--  Stats Section  -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
     <a href="https://github.com/madhvendrasingh007/github-readme-streak-stats">
