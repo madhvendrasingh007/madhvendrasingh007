@@ -63,7 +63,7 @@
 <br/>
 <hr/>
 
-<!--  Stats Section  -->
+<!--  Statistics Section  -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
     <a href="https://github.com/madhvendrasingh007/github-readme-streak-stats">
