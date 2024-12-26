@@ -74,9 +74,9 @@
 </p>
 
   <br/>
-    <a href="https://github.com/madhvendrasingh007/github-readme-stats"><img alt="Madhvendra Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhvendrasingh007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/madhvendrasingh007/github-readme-stats"><img align="left" alt="Madhvendra Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhvendrasingh007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/madhvendrasingh007/github-readme-stats">
-  <img alt="Madhvendra Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvendrasingh007&hide=Hack,PHP&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Madhvendra Singh's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvendrasingh007&hide=Hack,PHP&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
