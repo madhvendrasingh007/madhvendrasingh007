@@ -46,7 +46,11 @@ const madhvendra = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,cpp,python,java,aws,bootstrap&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=materialui,figma,vscode,github,express&theme=dark" />
 </div>
 
 ---
