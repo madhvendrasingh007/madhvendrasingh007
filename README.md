@@ -1,3 +1,12 @@
+<div align="center">
+  <h1>Hey there, I’m Madhvendra 👋</h1>
+  <p><strong>Software Developer & Creator • Full-Stack • Problem Solver</strong></p>
+</div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
 <!-- ===== THEME-AWARE SYSTEM.INFO HERO ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/main/dark.svg">
@@ -5,7 +14,20 @@
   <img alt="Madhvendra Singh — profile.sh --live" src="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/main/light.svg">
 </picture>
 
-<!-- ===== GITHUB STATS ===== -->
+---
+
+## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,cpp,python,java,aws,bootstrap&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=materialui,figma,vscode,github,express&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=madhvendrasingh007&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180">
@@ -22,7 +44,9 @@
 </picture>
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+---
+
+## 🐍 Contribution Snake
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/output/github-snake-dark.svg">
@@ -31,47 +55,23 @@
 </picture>
 </div>
 
-<!-- ===== ABOUT ===== -->
-## 🚀 About Me
+---
 
-```javascript
-const madhvendra = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: "Full-Stack Development",
-    learning: ["React.js", "Node.js", "DSA"],
-    interests: ["Photography", "Sketching", "Problem Solving"],
-    funFact: "I debug with console.log and I'm proud of it! 😄",
-    motto: "Code is poetry, bugs are just plot twists"
-};
-```
-
-🎯 **Current Mission:** Mastering Data Structures & Algorithms  
-🌱 **Learning Journey:** Deep diving into Full-Stack Web Development  
-🎨 **Creative Side:** [Artwork Portfolio](https://myartworks-007.netlify.app/)  
-💬 **Let's Connect:** Always happy to help and collaborate!
-
-<!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,cpp,python,java,aws,bootstrap&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=materialui,figma,vscode,github,express&theme=dark" />
-</div>
-
-<!-- ===== SOCIAL BADGES ===== -->
-<br/>
-<div align="center">
-<a href="https://linkedin.com/in/madhvendra-singh-6592201a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;&nbsp;
-<a href="mailto:smadhvendra80@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"></a>
-&nbsp;&nbsp;
-<a href="https://myartworks-007.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=safari&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/madhvendra-singh-6592201a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:smadhvendra80@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"></a>
+  &nbsp;&nbsp;
+  <a href="https://myartworks-007.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=safari&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio"></a>
 </div>
 
 <br/>
+
 <div align="center">
-  <em>Building • Learning • Shipping</em>
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <p><em>Happy Coding! 🚀 • Let's build something amazing! 💻 • Stay curious, stay creative! 🎨</em></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%" alt="Thanks for visiting footer"/>
 </div>
