@@ -1,52 +1,31 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
+name: Generate Snake Animation
 
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
-
-# This command allows us to run the Action automatically from the Actions tab.
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    timeout-minutes: 10
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
-
-    # Generates the snake  
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - name: Show build status
-        run: git status
-
-      - name: Push new files to output branch 
+            dist/github-snake.svg?palette=github-light&color_snake=0891B2&color_dots=#ebedf0,#a5b4fc,#818cf8,#6366f1,#0891B2
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=10B981&color_dots=#2d3343,#4b5563,#7C3AED,#A78BFA,#22D3EE
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
