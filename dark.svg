@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Madhvendra Singh — profile.sh --live">
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7C3AED"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A101F"/><stop offset="1" stop-color="#0C1426"/></linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3"/></filter>
+  <filter id="txtGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="0.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect x="2" y="2" width="1176" height="606" rx="18"/></clipPath>
+</defs>
+<rect x="2" y="2" width="1176" height="606" rx="18" fill="#070B16" stroke="#22D3EE" stroke-opacity=".35"/>
+<g clip-path="url(#clip)">
+<rect x="2" y="2" width="1176" height="606" fill="url(#panel)"/>
+<rect x="2" y="2" width="1176" height="46" fill="#0B1222"/>
+<line x1="2" y1="48" x2="1178" y2="48" stroke="#FFFFFF" stroke-opacity=".10"/>
+<circle cx="30" cy="25" r="5.5" fill="#ff5f56"/><circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/><circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
+<text x="590" y="29" text-anchor="middle" font-size="12" fill="#94A3B8">smadhvendra80@gmail.com - % ./profile.sh --live</text>
+<text x="38" y="74" font-size="10" letter-spacing="3" fill="#475569">VISUAL.MAP</text>
+<rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity=".28" filter="url(#glow)"/>
+<rect x="36" y="84" width="400" height="492" rx="10" fill="#0A101F" stroke="#22D3EE" stroke-opacity=".28"/>
+<path d="M52 104h-10v14M420 104h10v14M52 556h-10v-14M420 556h10v-14" fill="none" stroke="#22D3EE" stroke-width="2" opacity=".8"/>
+<text x="236" y="300" text-anchor="middle" font-size="128" font-weight="800" fill="none" stroke="#A78BFA" stroke-width="2" opacity=".8">MS</text>
+<text x="236" y="344" text-anchor="middle" font-size="12" letter-spacing="4" fill="#64748B">SOFTWARE.DEVELOPER</text>
+<text x="236" y="382" text-anchor="middle" font-size="13" fill="#22D3EE">FULL-STACK • PROBLEM SOLVER</text>
+<circle cx="236" cy="424" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="249" y="429" font-size="11" fill="#94A3B8">BUILDING + LEARNING</text>
+
+<text x="470" y="106" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">SYSTEM.INFO</text>
+<line x1="566" y1="102" x2="1061" y2="102" stroke="#FFFFFF" stroke-opacity=".10"/>
+<text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>●</tspan> LIVE<animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+<rect x="470" y="122" width="270" height="20" rx="4" fill="#4C1D95"/>
+<text x="479" y="136" font-size="14" font-weight="700" fill="#E9D5FF">@madhvendrasingh007</text>
+<line x1="740" y1="130" x2="1125" y2="130" stroke="#FFFFFF" stroke-opacity=".10"/>
+
+<g font-size="14">
+<text x="470" y="162"><tspan fill="#22D3EE">Subject </tspan><tspan fill="#334155">............................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Madhvendra Singh</tspan></text>
+<text x="470" y="185"><tspan fill="#22D3EE">Role </tspan><tspan fill="#334155">.......................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Software Developer &amp; Creator</tspan></text>
+<text x="470" y="208"><tspan fill="#22D3EE">Origin </tspan><tspan fill="#334155">......................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> India</tspan></text>
+<text x="470" y="231"><tspan fill="#22D3EE">Education </tspan><tspan fill="#334155">...................................................</tspan><tspan fill="#94A3B8"> Not specified</tspan></text>
+<text x="470" y="254"><tspan fill="#22D3EE">Status </tspan><tspan fill="#334155">.......................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Learning + Building</tspan></text>
+<text x="470" y="277"><tspan fill="#22D3EE">ToolChain </tspan><tspan fill="#334155">..................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> VS Code, Git, Figma</tspan></text>
+<text x="470" y="308"><tspan fill="#22D3EE">Core.Lang </tspan><tspan fill="#334155">....................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> JavaScript, C++, Python, Java</tspan></text>
+<text x="470" y="331"><tspan fill="#22D3EE">Core.Frontend </tspan><tspan fill="#334155">.................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> React.js, CSS, Bootstrap</tspan></text>
+<text x="470" y="354"><tspan fill="#22D3EE">Core.Backend </tspan><tspan fill="#334155">...................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Node.js, Express</tspan></text>
+<text x="470" y="377"><tspan fill="#22D3EE">Core.Database </tspan><tspan fill="#334155">...............................................</tspan><tspan fill="#F8FAFC" font-weight="600"> MongoDB, MySQL, Firebase</tspan></text>
+<text x="470" y="400"><tspan fill="#22D3EE">Core.Infra </tspan><tspan fill="#334155">.....................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> AWS, Vercel, Git</tspan></text>
+<text x="470" y="431"><tspan fill="#64748B">- Contact </tspan><tspan fill="#334155">----------------------------------------------------------------</tspan></text>
+<text x="470" y="454"><tspan fill="#22D3EE">Grid.Mail </tspan><tspan fill="#334155">.....................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> smadhvendra80@gmail.com</tspan></text>
+<text x="470" y="477"><tspan fill="#22D3EE">Grid.Portfolio </tspan><tspan fill="#334155">.................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> myartworks-007.netlify.app</tspan></text>
+<text x="470" y="500"><tspan fill="#22D3EE">Grid.LinkedIn </tspan><tspan fill="#334155">..................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> madhvendra-singh-6592201a9</tspan></text>
+<text x="470" y="523"><tspan fill="#22D3EE">Grid.GitHub </tspan><tspan fill="#334155">....................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> github.com/madhvendrasingh007</tspan></text>
+</g>
+<line x1="470" y1="548" x2="1125" y2="548" stroke="url(#accent)" stroke-opacity=".55"/>
+<text x="470" y="567" font-size="10" letter-spacing="2" fill="#64748B">DSA • FULL-STACK • OPEN SOURCE • HACKATHONS</text>
+</g></svg>
