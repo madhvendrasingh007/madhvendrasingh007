@@ -1,6 +1,27 @@
+<!-- ============================================================ -->
+<!--  gh-ascii PROFILE CARD — generated via gh.crafter.run        -->
+<!--  Run the curl commands in the setup notes to fetch these,    -->
+<!--  then commit dark_mode.svg + light_mode.svg to repo root.    -->
+<!-- ============================================================ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="madhvendrasingh007's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
+<br/>
+
 <div align="center">
-  <h1>Hey there, I’m Madhvendra 👋</h1>
-  <p><strong>Software Developer & Creator • Full-Stack • Problem Solver</strong></p>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  root@madhvendra:~$ whoami                                       │
+│  > Madhvendra Singh                                              │
+│  root@madhvendra:~$ cat role.txt                                 │
+│  > Software Developer · Full-Stack · Problem Solver              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <p align="right">
@@ -16,7 +37,14 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+<div align="center">
+
+```
+░▒▓█  T E C H   A R S E N A L  █▓▒░
+```
+
+</div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark" />
   <br/>
@@ -27,7 +55,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
+
+```
+░▒▓█  G I T H U B   A N A L Y T I C S  █▓▒░
+```
+
+</div>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=madhvendrasingh007&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180">
@@ -46,7 +81,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+```
+░▒▓█  C O N T R I B U T I O N   S N A K E  █▓▒░
+```
+
+</div>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/output/github-snake-dark.svg">
@@ -55,14 +97,24 @@
 </picture>
 </div>
 
+> Snake now renders in neon cyan on a deep-navy grid for dark mode, and deep magenta on white for light mode — see `snake.yml` for the workflow that generates these with the contrasted palette.
+
 ---
 
 <div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  root@madhvendra:~$ cat contact.txt                              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
   <a href="https://linkedin.com/in/madhvendra-singh-6592201a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;&nbsp;
   <a href="mailto:smadhvendra80@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"></a>
   &nbsp;&nbsp;
   <a href="https://myartworks-007.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=safari&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio"></a>
+
 </div>
 
 <br/>
