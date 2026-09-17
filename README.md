@@ -3,6 +3,16 @@
 <!--  Run the curl commands in the setup notes to fetch these,    -->
 <!--  then commit dark_mode.svg + light_mode.svg to repo root.    -->
 <!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&height=80&lines=Hey+there%2C+I'm+Madhvendra+Singh;Problem+Solver+%2B+Full-Stack+Dev;Turning+Coffee+Into+Code" alt="Typing SVG" />
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile views" />
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
@@ -15,25 +25,15 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  root@madhvendra:~$ whoami                                       │
-│  > Madhvendra Singh                                              │
-│  root@madhvendra:~$ cat role.txt                                 │
-│  > Software Developer · Full-Stack · Problem Solver              │
+│  root@madhvendra:~$ whoami                                      │
+│  > Madhvendra Singh                                             │
+│  root@madhvendra:~$ cat role.txt                                │
+│  > Software Developer · Full-Stack · Problem Solver             │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=madhvendrasingh007&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
-<!-- ===== THEME-AWARE SYSTEM.INFO HERO ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/main/light.svg">
-  <img alt="Madhvendra Singh — profile.sh --live" src="https://raw.githubusercontent.com/madhvendrasingh007/madhvendrasingh007/main/light.svg">
-</picture>
 
 ---
 
@@ -45,13 +45,22 @@
 
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,cpp,python,java,aws,bootstrap&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=materialui,figma,vscode,github,express&theme=dark" />
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,materialui&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Backend &amp; Data</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java&theme=dark" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Tools &amp; Cloud</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,aws,figma,vscode,github,git,postman&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,15 +106,13 @@
 </picture>
 </div>
 
-> Snake now renders in neon cyan on a deep-navy grid for dark mode, and deep magenta on white for light mode — see `snake.yml` for the workflow that generates these with the contrasted palette.
-
 ---
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  root@madhvendra:~$ cat contact.txt                              │
+│  root@madhvendra:~$ cat contact.txt                             │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
