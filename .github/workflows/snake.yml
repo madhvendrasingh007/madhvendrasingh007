@@ -2,30 +2,32 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"      # runs every day at midnight UTC
+  workflow_dispatch:          # lets you run it manually
   push:
-    branches: [main]
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#C026D3&color_dots=#ebedf0,#c7d2fe,#818cf8,#4f46e5,#3730a3
-            dist/github-snake-dark.svg?color_snake=#22D3EE&color_dots=#A5F3FC,#312e81,#4338ca,#6366f1,#A78BFA
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
